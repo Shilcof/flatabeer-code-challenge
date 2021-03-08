@@ -1,1 +1,1 @@
-// Code here
+BeerAPI.index()
